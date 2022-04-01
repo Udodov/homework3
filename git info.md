@@ -37,3 +37,4 @@
 Чтобы добавить картинку, необходимо ввести `![picture description](link to the picture)`например:
 > ![love is...](loveMD.jpg)
 
+По форматированию текста в Markdown см.Lesson1_lectures
