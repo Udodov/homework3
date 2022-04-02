@@ -38,6 +38,9 @@
 
 >git branch
 
+Для создания ветки с именем branch_name:
+> git branch branch_name
+
 Чтобы добавить картинку, необходимо ввести `![picture description](link to the picture)`например:
 > ![love is...](loveMD.jpg)
 
