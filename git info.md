@@ -38,6 +38,9 @@
 
 > git branch
 
+Для создания ветки с именем branch_name:
+> git branch branch_name
+
 Для перехода к ветке с именем branch_name:
 > git checkout branch_name
 
