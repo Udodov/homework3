@@ -40,6 +40,9 @@
 
 Для перехода к ветке с именем branch_name:
 > git checkout branch_name
+
+Чтобы создать и сразу перейти к созданной ветке:
+> git checkout -b branch_name
  
 Чтобы добавить картинку, необходимо ввести `![picture description](link to the picture)`например:
 > ![love is...](loveMD.jpg)
