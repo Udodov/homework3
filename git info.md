@@ -47,6 +47,11 @@
 Чтобы создать и сразу перейти к созданной ветке:
 > git checkout -b branch_name
  
+Для совмещения сеток используют:
+>git merge branch_name
+
+информация из branch_name передастся в текущую ветку
+
 Чтобы добавить картинку, необходимо ввести `![picture description](link to the picture)`например:
 > ![love is...](loveMD.jpg)
 
