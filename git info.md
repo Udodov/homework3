@@ -48,9 +48,17 @@
 > git checkout -b branch_name
  
 Для совмещения сеток используют:
->git merge branch_name
+> git merge branch_name
 
 информация из branch_name передастся в текущую ветку
+
+Чтобы удалить ветку:
+> git branch -d branch_name
+
+в этом случае GIT проверит на то, есть ли там не замердженная информация
+
+Если хотим удалить не проверяя ничего:
+> git branch -D branch_name
 
 Чтобы добавить картинку, необходимо ввести `![picture description](link to the picture)`например:
 > ![love is...](loveMD.jpg)
